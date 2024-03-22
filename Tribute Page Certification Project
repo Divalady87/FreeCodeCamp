@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+  <html lan="en">
+    <link rel="stylesheet" href="styles.css">
+      <style>
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+        </style>
+  <main id="main">
+    <title id="title">Tribute Page</title>
+     <figure id="img-div">
+       <h1>Tribute to Adrienne Marie</h1>
+      <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/139053418_10225545318605318_5228085109987676748_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=AnZeFjTk4rkAX-fbI3W&_nc_ht=scontent-lax3-2.xx&cb_e2o_trans=q&oh=00_AfCZJDQmgvV3aAlL6UbNlsjspNA3MNy2dxK7Yr8p82MipQ&oe=662482B9"  id="image" />
+      <div id="img-caption">It's Her</div>
+     </figure>
+     <div id="tribute-info">Adrienne Marie</div>
+     <p>She has been learning how to code and is excited to have made this tribute page for herself!</p> 
+     <a id="tribute-link" target="_blank" href="https://www.facebook.com/Divalady87/" />Learn More Here</a>
+
+  </main>
+</html>
